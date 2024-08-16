@@ -1,0 +1,41 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Bank Account Management";
+}
+
+<div style="border: 2px solid black; padding: 20px; max-width: 400px; margin: auto;">
+
+    <h2>Welcome, John Smith!</h2>
+
+    <div>
+        <label for="account">Account:</label>
+        <select id="account" name="account" style="width: 100px;">
+            <option>1234</option>
+            <!-- Add more options if needed -->
+        </select>
+    </div>
+
+    <div>
+        <label for="balance">BALANCE:</label>
+        <span id="balance">$1000 (CAD)</span>
+    </div>
+
+    <div style="border: 2px solid black; padding: 10px; margin-top: 20px;">
+        <div>
+            <label for="amount">Amount:</label>
+            <input type="number" id="amount" name="amount" value="1000" style="width: 100px;" />
+            <select id="currency" name="currency" style="width: 100px;">
+                <option>CAD</option>
+                <option>USD</option>
+                <option>MXN</option>
+                <option>EURO</option>
+            </select>
+        </div>
+
+        <div style="margin-top: 20px;">
+            <button type="button" style="width: 100px; margin-right: 10px;">WITHDRAW</button>
+            <button type="button" style="width: 100px;">DEPOSIT</button>
+        </div>
+    </div>
+</div>
