@@ -28,3 +28,4 @@ C:\Users\Tyler\Documents\GitHub\DataConDeveloperAssignment\DataCon\obj\Debug\net
 C:\Users\Tyler\Documents\GitHub\DataConDeveloperAssignment\DataCon\obj\Debug\net8.0\DataCon.pdb
 C:\Users\Tyler\Documents\GitHub\DataConDeveloperAssignment\DataCon\obj\Debug\net8.0\DataCon.genruntimeconfig.cache
 C:\Users\Tyler\Documents\GitHub\DataConDeveloperAssignment\DataCon\obj\Debug\net8.0\ref\DataCon.dll
+C:\Users\Tyler\Documents\GitHub\DataConDeveloperAssignment\DataCon\obj\Debug\net8.0\DataCon.sourcelink.json

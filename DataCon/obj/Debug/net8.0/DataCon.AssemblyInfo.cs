@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataCon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3543f30c7a84d5edba3296818b954625f64296f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataCon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataCon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
